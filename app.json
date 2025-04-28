@@ -30,7 +30,7 @@
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "BMW",
       "required": false
     },
     "TIMEZONE": {
@@ -45,12 +45,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA61Vy27ryBH9lYveSnfEN0UBBsKnLFEvSqIkKgiCVrNJtUjx2aJMX2gxk2Q+wcgii3xCAmQmi/xB/sL+koCWDRuYmTsOMNyQaFZXnao6deoLSFJSYhvXoPcFZAWpIMXNJ60zDHpAOwUBLkAb+JBC0AOtWUefxZON3Z0bsDpsFadwnPBe38aYybN1q58O51N5LNsmcwMubZCddjFBX3HI2L7jVHh3Swqvs9/2Nd23xZkxOBxrN8htJJCRI07xUuW9G3BpPEJSkCQ0sz0+4gLGNq5nkBQfg+/MjpUy0HhOGQeeY+WiyVqpp2zWqt6RutsRP+q6rGGu8+j8MfiSPCkn7g7WAWrJWjzt0rSc3RpuHFYDw+nyd7fO/f3AHigb9wq/JGGC/YGPE0po/eG6e5Ppriv09b63sYz7CZnPDf2Q+sXo7FA9Z3P/vsN1FmWJVh8ELkbD2lI6wzFCZbGQwolN69pZrzt55RkjXVRk20uGOqfUwnvgs+KVK9H/U3d3pHXnaMQfcR6PpsPx3TGB3saKFm6nhoKCqNeik8VCrSLvY/BnLpzWJ87S4nNCD84ObZIdL8opTfVQMV2n5SCaru6jluG8wYf0VHwNJcnd5HzQ0QQex5hNJuMoJsidVklfdPpONRvLW+ZoJ1oe7Gubm665SKstVWgVUbz3ZvvbSlrmtDwthwM0cDI+8mblTjvfPGcU4Xrggx57aYMCh6SkBaQkTZozgW8D6FcLjApMn6sLoh3neSRZuKYyPxiheMtMbXuwO+AEGePNdrLW5I3IryN3jm5AG2RFinBZYv+WlDQt6jEuSxjiEvR+/9yoJucCH1OKh8QHPcCJgiwrLCd1ee535TfnPaQlzLJvEkxBGwRFehxj0KPFCbfB9YJuKrwl6RZvaJYqqpbUFTXNNDVOUFleZpoMj9egS3LEJYXHDPRYWRC7Ascw3Uv7t8FhcoJkypwldA1BsnRJkVhLNzhZYzWJtXjxV3AovxUORjctQ+R0g+clyVA4XuZUxWC7hqaJGs+YX8chsJc/tEGC7+h1nBoS8GwbBKQoqZucsjiF/uusvf6ECKWnhC7qBOnNBy5A790xppQkYdlkdkpggfakwnqTB+gFMC7xpQ18XBGEG39gWP2R0cb9bHGWht7d3HQZJ16eGybt0+RqwnaRAjlR/MyISvezgLD8WeEZ+TPccQHDiuKOVRBoynFVsubOLw6WYaWTAK7mCBtubaqOj2Qi0+2qRa9b4joRuMD+a5V3EEWnbJlGOPmKXzjqCJwAi/MAG7PFJujskHaWQ2aQOO/8XicN9L68bQ899Rt/ti52h5ImgqZbTZyfsKHH/pQPCWyMwdPDt5+eHr779PTw509PD3/59PTw/eO//v34w58ef/zbf//x/P774w9/ffzxP0/f/vPp4fsXo8b4uwbcS+easD6mkMQl6AHdljRlLPTNcYArpPb7qhmqeqiCt06/CtlVKYLbpWKmqSLacU5j7y7eYDNPyvFighXBdsdbC0EVdpx4Xd78jJOm0bmtHgZ2X7bYTkz6Saznhnu+b50kSmZ6GOrj9YJfRcshwYP8tkA+qqcOcXF3w6gr9YC8XChT1rSds+CncqDY90vPUG+aaFfGvQ82CSk+5mfuNnD3u2kqnlo5Wx/JSoRTnzlCDc3DxR2bsBrjuDgaBHZkZsFZoyQl5XaqDcuVaKijjdLxWsW+VY30mXoynKvEPkt8/LJayYv6XfkZEPy8qV5a92sdfpsU5tJ+5+Jl9f0CG7XNHdOZ2/YMLzJYbNfj7Yrf25lsmIdNhfXY6M83/bBfMcNVAS6NBGQxpEFaHBsqJ36REh+0QQxLqr4N+8/pmNAGx1rNsgWF9FUjgNo8o9MIXP4HwhlD8dUJAAA=",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "Felo",
       "required": false
     },
     "URL": {
